@@ -1,21 +1,22 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
+title: Preeti Ravindra
+description: 'Webpage of Preeti Ravindra'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+profilepic: '/images/preetir.jpeg'
+bkimage: '/images/bktrial04.jpeg'
+google_analytics:
+font_awesome: 'fontawesome/js/all.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  name: 'Preeti Ravindra'
+  email:
+  twitter_username: emerging_cyber
+  facebook_username:
+  github_username:  emergingcyber
+  linkedin_username:  preeti-ravindra
+  meetup_name:
+  medium_name:
 
 # Build settings
 destination: _site
