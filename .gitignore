@@ -2,3 +2,4 @@ _site/
 .jekyll-cache/
 .vscode
 *.swp
+.DS_Store
