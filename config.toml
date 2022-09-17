@@ -1,4 +1,4 @@
-baseURL = 'https://cybersnacker.github.io/cybersnacker.github.io'
+baseURL = 'https://cybersnacker.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "dimension"
