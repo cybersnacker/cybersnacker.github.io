@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preeti Ravindra on My New Hugo Site</title>
+    <link>https://cybersnacker.github.io/</link>
+    <description>Recent content in Preeti Ravindra on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://cybersnacker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMMUNITY</title>
+      <link>https://cybersnacker.github.io/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersnacker.github.io/community/</guid>
+      <description>This section contains my contributions in maintaining and fostering the security community by lending my security expertise
+CONFERENCES 16th Executive Women&amp;rsquo;s Forum National Conference 2018: Served as steering committee member to identify relevant and important themes in information security, risk and privacy. I reviewed submissions in the AI track for this conference WiCyS Conference 2017: Served as program committee member to review and select conference submissions for WiCyS 2017 Conference LEADERSHIP I produced content for the NextExec Podcast Season 3 in the role of co-lead of Executive Women&amp;rsquo;s Forum&amp;rsquo;s podcast team.</description>
+    </item>
+    
+    <item>
+      <title>MEDIA</title>
+      <link>https://cybersnacker.github.io/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersnacker.github.io/media/</guid>
+      <description>This section features coverage of my work as well as my profile
+PRESS Data Privacy Week - An interview style news article about data privacy challenges from a data science and security perspective and
+PODCASTS Emerging Voice of Humans of InfoSec - I talk about my career journey in to doing AI for Cybersecurity Scuba Gear Required: A Deeper Dive into AI/ML/DL - Specific application and use cases of AI for security Keeping it Real About Artificial Intelligence - 101 for security practitioners TV/STREAMING Darkweb: Fighting Cybercrime - This documentary was produced by Discovery Channel and aired on the Science Channel featuring the technological advances in solving cybercrime </description>
+    </item>
+    
+    <item>
+      <title>RESEARCH</title>
+      <link>https://cybersnacker.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersnacker.github.io/research/</guid>
+      <description>My research is at the intersection of security, data science and machine learning.
+PATENTS Security Incident Disposition Predictions Based on cognitive evaluation of security knowledge graphs Inferring Temporal Relationships for Cybersecurity Events Exploit Kit Detection </description>
+    </item>
+    
+    <item>
+      <title>TALKS</title>
+      <link>https://cybersnacker.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersnacker.github.io/talks/</guid>
+      <description>SECURITY EWF 2017: Anatomy of a Ransomware Attack DATA SCIENCE, ML, AI BSidesPGH 2022: Clippy or SkyNet for your SOC @ 7:19:40 Watson for Cybersecurity @ Kennesaw State University </description>
+    </item>
+    
+  </channel>
+</rss>
