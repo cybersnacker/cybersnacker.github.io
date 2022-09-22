@@ -1,8 +1,7 @@
 ---
-title: RESEARCH
+title: RESEARCH 
 ---
-
-My research is at the intersection of security, data science and machine learning. 
+My research is at the intersection of security, data science and machine learning
 
 ### PATENTS
 * [Security Incident Disposition Predictions Based on cognitive evaluation of security knowledge graphs](https://patents.google.com/patent/US11308211B2/en)

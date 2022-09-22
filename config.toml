@@ -1,4 +1,4 @@
 baseURL = 'https://cybersnacker.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "dimension"
+title = 'Preeti Ravindras website'
+theme = 'dimension'
