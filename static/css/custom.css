@@ -204,14 +204,14 @@ input, select, textarea {
 
 	h1 {
 		font-size: 2.25rem;
-		line-height: 1.5;
+		line-height: 0.25;
 		letter-spacing: 0.5rem;
 	}
 
 	h2 {
 		font-size: 1.5rem;
-		line-height: 1.4;
-		letter-spacing: 0.5rem;
+		line-height: 0.25;
+		letter-spacing: 0.25rem;
 	}
 
 	h3 {
@@ -234,7 +234,7 @@ input, select, textarea {
 
 		h1 {
 			font-size: 1.75rem;
-			line-height: 1.4;
+			line-height: 1.5;
 		}
 
 		h2 {
@@ -642,8 +642,8 @@ input, select, textarea {
 		.icon > img {
 			display: inline-block;
 			vertical-align: middle;
-			max-width: 3.5rem;
-			max-height: 3.5rem;
+			max-width: 11rem;
+			max-height: 11rem;
 			width: auto;
 			height: auto;
 		}
@@ -1304,8 +1304,8 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 11rem;
+			height: 11rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
@@ -1343,9 +1343,9 @@ input, select, textarea {
 
 			#header .content p {
 				text-transform: uppercase;
-				letter-spacing: 0.2rem;
+				letter-spacing: 0.25rem;
 				font-size: 0.8rem;
-				line-height: 2;
+				line-height: ;
 			}
 
 		#header nav ul {
