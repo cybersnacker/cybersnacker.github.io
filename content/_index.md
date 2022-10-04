@@ -5,5 +5,3 @@ background: "images/bg.jpeg"
 logo: "images/logo.png"
 socialshare: true
 ---
-
-#### ABOUT ME

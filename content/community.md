@@ -1,7 +1,7 @@
 ---
 title: COMMUNITY
 ---
-This section contains my contributions in maintaining and fostering the security community by lending my security expertise
+My contributions and service to the security community by providing security expertise and mentorship
 
 ### CONFERENCES
 - **16th Executive Women's Forum National Conference 2018**: Served as *steering committee member* to identify relevant and important themes in information security, risk and privacy. I reviewed submissions in the AI track for this conference
@@ -9,3 +9,4 @@ This section contains my contributions in maintaining and fostering the security
 
 ### LEADERSHIP
 - I produced content for the *[NextExec Podcast Season 3](https://nextexec.buzzsprout.com/)* in the role of *co-lead* of Executive Women's Forum's podcast team. *I also hosted several accomplished leaders in Season 2 and Season 3*
+
