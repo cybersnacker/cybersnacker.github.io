@@ -1,4 +1,4 @@
-baseURL = 'http://preetiravindra.info'
+baseURL = 'https://preetiravindra.info'
 languageCode = 'en-us'
 title = 'Preeti Ravindras website'
 theme = 'dimension'
