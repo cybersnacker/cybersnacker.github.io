@@ -2,3 +2,8 @@ baseURL = 'https://preetiravindra.info'
 languageCode = 'en-us'
 title = 'Preeti Ravindra website'
 theme = 'dimension'
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.8
