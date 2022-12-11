@@ -1,6 +1,6 @@
 baseURL = 'https://preetiravindra.info'
 languageCode = 'en-us'
-title = 'Preeti Ravindra website'
+title = 'Preeti Ravindra'
 theme = 'dimension'
 
 [sitemap]
