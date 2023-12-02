@@ -11,4 +11,5 @@ My contributions and service to the security community by providing security exp
 - I produced content for the *[NextExec Podcast Season 3](https://nextexec.buzzsprout.com/)* in the role of *co-lead* of Executive Women's Forum's podcast team. *I also hosted several accomplished leaders in Season 2 and Season 3*
 
 ### VOLUNTEERING
+- I reviewed submissions for CAMLIS 2023 program
 - I produced media content for BSidesNYC 2023 that was coming back from a hiatus since 2018
