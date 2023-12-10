@@ -5,6 +5,7 @@ title: TALKS
 ### SECURITY
 | Date  | Event | Media | Summary
 | ----- | -------- | ------- | ------ |
+| Sep 2023     | [BSides RDU: The AI Goldilocks Priciple for SecOps](https://bsidesrdu.org/#schedule) |    | When is AI too much, too little, just right for your SecOps
 | Jul 2022     | [BSidesPGH: Clippy or SkyNet for your SOC](https://bsidespgh2022.sched.com/event/13t4T/clippy-or-skynet-for-your-soc)  | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=Z3rMc0N2drc&t=2&ab_channel=SecPgh) | Applying machine learning for SecOps
 | Oct 2017 | [Executive Women's Forum Annual Conference: Anatomy of a Ransomware Attack](https://ewf2017.sched.com/event/BcYf/anatomy-of-a-ransomware-attack) | | Research on initial access of ransomware
 | Aug 2017    |  Kennesaw State University: Watson for Cybersecurity | | AI for Cybersecurity
