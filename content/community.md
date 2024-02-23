@@ -12,4 +12,4 @@ My contributions and service to the security community by providing security exp
 
 ### VOLUNTEERING
 - I reviewed submissions for CAMLIS 2023 program
-- I *[produced media content](images/BSidesNYC_volunteering.png)* for BSidesNYC 2023 that was coming back from a hiatus since 2018
+- I *[interviewed security professionals](https://www.youtube.com/playlist?list=PLiVMecYmLYz4Hyol9fZ_jyD3Bm7Yd9yzS)* from different fields in security for BSidesNYC 2023 that was coming back from a hiatus since 2018
