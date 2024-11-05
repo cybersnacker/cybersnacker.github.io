@@ -7,6 +7,7 @@ My contributions and service to the security and AI community by lending my expe
 | Date  | Event | Role |
 | ----- | -------- | ------- | 
 | Oct 2024     | [CAMLIS 24](https://www.camlis.org/) |  Program Committee, CFP Reviewer |
+| OCt 2024     | [BSides NYC](https://bsidesnyc.org)   | Podcast Host 
 | Aug 2024     | [The Diana Initiative](https://www.dianainitiative.org/)          | CFP Mentor  |
 | Aug 2024     | [Defcon AI Village](https://aivillage.org/)             | MC  |
 | Oct 2023     | [CAMLIS 23](https://www.camlis.org/)                     | Program Committe, CFP Reviewer | 
