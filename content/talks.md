@@ -5,7 +5,8 @@ title: TALKS
 ### SECURITY
 | Date  | Event | Media | Summary
 | ----- | -------- | ------- | ------ |
-| Aug 2024     | [BSidesLV: AI in the Human Loop](https://bsideslv.org/talks#ZSLBCG) | | Effects on human workflows before and after deploying generative AI solutions
+| Dec 2024     | [Qualys LLM Risk Series](https://qualys.brighttalk.com/) | [![](images/youtube_social_icon_red.png)](https://youtu.be/-YevSRoTDpQ?si=PqG0aQOzc9e8onr5) | Risk Mitigation for AI with Secure Development Lifecycle
+| Aug 2024     | [BSidesLV 2024: AI in the Human Loop](https://bsideslv.org/talks#ZSLBCG) | [![](images/youtube_social_icon_red.png)](https://youtu.be/K5hELUspWq8?si=ap_KwjMFXDBZ5Ggo) | Effects on human workflows before and after deploying generative AI solutions
 | Sep 2023     | [BSides RDU: The AI Goldilocks Priciple for SecOps](https://bsidesrdu.org/#schedule) |    | When is AI too much, too little, just right for your SecOps
 | Apr 2023     | BSides NYC 0x03 | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/playlist?list=PLiVMecYmLYz4Hyol9fZ_jyD3Bm7Yd9yzS) | Interviewing Security Practitioners
 | Jul 2022     | [BSidesPGH: Clippy or SkyNet for your SOC](https://bsidespgh2022.sched.com/event/13t4T/clippy-or-skynet-for-your-soc)  | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=Z3rMc0N2drc&t=2&ab_channel=SecPgh) | Applying machine learning for SecOps
