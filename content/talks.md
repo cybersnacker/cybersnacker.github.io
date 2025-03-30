@@ -18,7 +18,7 @@ title: TALKS
 | Date  | Event | Media | Summary
 | ----- | -------- | ------- | ------ |
 | April 2025 | Effectively Integrating AI in security practitioners' toolbox |  |  Training for using AI in security
-| April 2025 | Applications of AI in Information Security | | Invited talk at UT Dallas for Grace Series
+| April 2025 | Through the Looking Glass of AI and Security | | Invited talk at UT Dallas for Grace Series
 | Mar 2024 | Carnegie Mellon Industry Speaker | | Industy Applications of AI in Security
 | Dec 2022 | [INSAID Data Science Academy Talk](https://www.linkedin.com/posts/insaid_data-datascience-ai-activity-7009135815419162625-czQq?utm_source=share&utm_medium=member_desktop) | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=2AK-8l_25G4&ab_channel=INSAID) | How to start using data skills today 
 | Oct 2022   |  [PMI Metrolina: Managing Data Science Projects](https://pmi-metrolina.org/calendar?month=9&year=2022)  | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=XykfBF46h8s&ab_channel=PMIMetrolina) | How project managers should get involved in data science projects
