@@ -2,11 +2,22 @@
 title: TALKS
 ---
 
+### DATA SCIENCE, ML, AI
+| Date  | Event | Media | Summary
+| ----- | -------- | ------- | ------ |
+| May 2025   | AI RTP Meetup   |       | Overview talk on AI Safety and Security
+| April 2025 | Effectively Integrating AI into security practitioners' toolbox |  |  Training for using AI in security
+| April 2025 | Through the Looking Glass of AI and Security | [![](images/youtube_social_icon_red.png)](https://youtu.be/VXR5irqZJDU?si=XCllBTA6tD_TEBAp) | Invited talk at UT Dallas for Grace Series
+| Aug 2024     | [BSidesLV 2024: AI in the Human Loop](https://bsideslv.org/talks#ZSLBCG) | [![](images/youtube_social_icon_red.png)](https://youtu.be/K5hELUspWq8?si=ap_KwjMFXDBZ5Ggo) | Effects on human workflows before and after deploying generative AI solutions
+| Mar 2024 | Guest lecture for 14-795 | | Invited talk on "Industy Applications of AI in Security"
+| Dec 2022 | [INSAID Data Science Academy Talk](https://www.linkedin.com/posts/insaid_data-datascience-ai-activity-7009135815419162625-czQq?utm_source=share&utm_medium=member_desktop) | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=2AK-8l_25G4&ab_channel=INSAID) | How to start using data skills today 
+| Oct 2022   |  [PMI Metrolina: Managing Data Science Projects](https://pmi-metrolina.org/calendar?month=9&year=2022)  | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=XykfBF46h8s&ab_channel=PMIMetrolina) | How project managers should get involved in data science projects
+
+
 ### SECURITY
 | Date  | Event | Media | Summary
 | ----- | -------- | ------- | ------ |
-| Dec 2024     | [Qualys LLM Risk Series](https://qualys.brighttalk.com/) | [![](images/youtube_social_icon_red.png)](https://youtu.be/-YevSRoTDpQ?si=PqG0aQOzc9e8onr5) | Risk Mitigation for AI with Secure Development Lifecycle
-| Aug 2024     | [BSidesLV 2024: AI in the Human Loop](https://bsideslv.org/talks#ZSLBCG) | [![](images/youtube_social_icon_red.png)](https://youtu.be/K5hELUspWq8?si=ap_KwjMFXDBZ5Ggo) | Effects on human workflows before and after deploying generative AI solutions
+| Dec 2024     | [Qualys LLM Risk Series](https://qualys.brighttalk.com/) | [![](images/youtube_social_icon_red.png)](https://youtu.be/-YevSRoTDpQ?si=PqG0aQOzc9e8onr5) | Invited Talk on Risk Mitigation for AI with Secure Development Lifecycle
 | Sep 2023     | [BSides RDU: The AI Goldilocks Priciple for SecOps](https://bsidesrdu.org/#schedule) |    | When is AI too much, too little, just right for your SecOps
 | Apr 2023     | BSides NYC 0x03 | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/playlist?list=PLiVMecYmLYz4Hyol9fZ_jyD3Bm7Yd9yzS) | Interviewing Security Practitioners
 | Jul 2022     | [BSidesPGH: Clippy or SkyNet for your SOC](https://bsidespgh2022.sched.com/event/13t4T/clippy-or-skynet-for-your-soc)  | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=Z3rMc0N2drc&t=2&ab_channel=SecPgh) | Applying machine learning for SecOps
@@ -14,12 +25,5 @@ title: TALKS
 | Aug 2017    |  Kennesaw State University: Watson for Cybersecurity | | AI for Cybersecurity
 
 
-### DATA SCIENCE, ML, AI
-| Date  | Event | Media | Summary
-| ----- | -------- | ------- | ------ |
-| April 2025 | Effectively Integrating AI in security practitioners' toolbox |  |  Training for using AI in security
-| April 2025 | Through the Looking Glass of AI and Security | | Invited talk at UT Dallas for Grace Series
-| Mar 2024 | Carnegie Mellon Industry Speaker | | Industy Applications of AI in Security
-| Dec 2022 | [INSAID Data Science Academy Talk](https://www.linkedin.com/posts/insaid_data-datascience-ai-activity-7009135815419162625-czQq?utm_source=share&utm_medium=member_desktop) | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=2AK-8l_25G4&ab_channel=INSAID) | How to start using data skills today 
-| Oct 2022   |  [PMI Metrolina: Managing Data Science Projects](https://pmi-metrolina.org/calendar?month=9&year=2022)  | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=XykfBF46h8s&ab_channel=PMIMetrolina) | How project managers should get involved in data science projects
+
 

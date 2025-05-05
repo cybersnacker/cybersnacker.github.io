@@ -6,12 +6,10 @@ My contributions and service to the security and AI community by lending my expe
 ### CONFERENCES
 | Date  | Event | Role |
 | ----- | -------- | ------- | 
-| Oct 2024     | [CAMLIS 24](https://www.camlis.org/) |  Program Committee, CFP Reviewer |
-| OCt 2024     | [BSides NYC](https://bsidesnyc.org)   | Podcast Host 
-| Aug 2024     | [The Diana Initiative](https://www.dianainitiative.org/)          | CFP Mentor  |
-| Aug 2024     | [Defcon AI Village](https://aivillage.org/)             | MC  |
-| Oct 2023     | [CAMLIS 23](https://www.camlis.org/)                     | Program Committe, CFP Reviewer | 
-| April 2023   | [BSides NYC](https://bsidesnyc.org/)                    | Podcast Host
+| May 2025 - present     | [Align Security](https://align-sec.org/)          | Professional Outreach Director
+| Aug 2024 - present     | [The Diana Initiative](https://www.dianainitiative.org/)          | CFP Mentor  |
+| Oct 2023 - present     | [CAMLIS](https://www.camlis.org/) |  Program Committee |
+| Oct 2023 - present     | [BSides NYC](https://bsidesnyc.org)   | Podcast Host 
 | Oct 2018     | [16th Executive Women's Forum National Conference](https://www.ewf-usa.com/events/event_details.asp?legacy=1&id=1039519)   | Steering Committee Member
 | March 2017   |  WiCyS Conference 2017(https://www.wicys.org/event/wicys-2017/)            | Prgoram Committee
 
