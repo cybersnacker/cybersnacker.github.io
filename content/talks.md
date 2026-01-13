@@ -17,6 +17,7 @@ title: TALKS
 ### SECURITY
 | Date  | Event | Media | Summary
 | ----- | -------- | ------- | ------ |
+| Dec 2025     | [A Defender's Lens on AI-driven risks](https://www.youtube.com/watch?v=4nRUAqLt6KQ&list=PLFHSz1fBN1FZItrUjA-eWx9mBPjuEWEPz&index=6) | [![](images/youtube_social_icon_red.png)](https://youtu.be/-YevSRoTDpQ?si=PqG0aQOzc9e8onr5) | Invited talk on AI risks from a security perspective
 | Dec 2024     | [Qualys LLM Risk Series](https://qualys.brighttalk.com/) | [![](images/youtube_social_icon_red.png)](https://youtu.be/-YevSRoTDpQ?si=PqG0aQOzc9e8onr5) | Invited Talk on Risk Mitigation for AI with Secure Development Lifecycle
 | Sep 2023     | [BSides RDU: The AI Goldilocks Priciple for SecOps](https://bsidesrdu.org/#schedule) |    | When is AI too much, too little, just right for your SecOps
 | Apr 2023     | BSides NYC 0x03 | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/playlist?list=PLiVMecYmLYz4Hyol9fZ_jyD3Bm7Yd9yzS) | Interviewing Security Practitioners
