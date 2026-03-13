@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Preeti Ravindra'
 theme = 'dimension'
 
+# Ignore scripts directory from Hugo processing
+ignoreFiles = ['^scripts/']
+
 [sitemap]
   changefreq = 'monthly'
   filename = 'sitemap.xml'
