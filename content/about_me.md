@@ -7,10 +7,8 @@ title: BIO
 As a recognized industry voice, Preeti speaks at conferences like DEFCON,BSides and serves on program committees for CAMLIS, unprompted. She is passionate about bridging the AI and security communities and advancing early career professionals to more senior roles. Currently, Preeti is pursuing AI safety research in AI control.
 
 <div style="display:none">
-
-### AI + Security Role Dimensions
-The spider chart compares the relative emphasis across AI and security skill dimensions.
-
+<h3>AI + Security Role Dimensions</h3>
+<p>The spider chart compares the relative emphasis across AI and security skill dimensions.</p>
 </div>
 
 <div class="spider-chart">
