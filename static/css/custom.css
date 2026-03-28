@@ -1125,6 +1125,7 @@ input, select, textarea {
 		-ms-transform: scale(1.0);
 		transform: scale(1.0);
 		-webkit-backface-visibility: hidden;
+		backface-visibility: hidden;
 		position: fixed;
 		top: 0;
 		left: 0;
@@ -1345,7 +1346,7 @@ input, select, textarea {
 				text-transform: uppercase;
 				letter-spacing: 0.25rem;
 				font-size: 0.8rem;
-				line-height: ;
+				line-height: 1.6;
 			}
 
 		#header nav ul {
@@ -1635,6 +1636,98 @@ input, select, textarea {
 			}
 
 		}
+
+/* Spider Chart */
+
+	.spider-chart {
+		margin: 2rem 0 1rem 0;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+	}
+
+	.spider-chart__svg {
+		width: min(100%, 28rem);
+		height: auto;
+		display: block;
+	}
+
+	.spider-chart__grid polygon,
+	.spider-chart__grid line {
+		fill: none;
+		stroke: rgba(255, 255, 255, 0.18);
+		stroke-width: 1;
+	}
+
+	.spider-chart__area polygon {
+		stroke-width: 2;
+		fill-opacity: 0.24;
+	}
+
+	.spider-chart__area--ai polygon,
+	.spider-chart__area--ai circle {
+		fill: rgba(212, 175, 55, 0.35);
+		stroke: #d4af37;
+	}
+
+	.spider-chart__area--security polygon,
+	.spider-chart__area--security circle {
+		fill: rgba(64, 191, 196, 0.25);
+		stroke: #40bfc4;
+	}
+
+	.spider-chart__area circle {
+		opacity: 0.9;
+	}
+
+	.spider-chart__labels text {
+		fill: rgba(255, 255, 255, 0.78);
+		font-size: 10px;
+		letter-spacing: 0.08rem;
+		text-transform: uppercase;
+	}
+
+	.spider-chart__legend {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 1rem 1.5rem;
+		font-size: 0.7rem;
+		letter-spacing: 0.15rem;
+		text-transform: uppercase;
+	}
+
+	.spider-chart__key {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.spider-chart__key:before {
+		content: '';
+		display: inline-block;
+		width: 0.9rem;
+		height: 0.9rem;
+		border-radius: 999px;
+		border: 1px solid rgba(255, 255, 255, 0.4);
+	}
+
+	.spider-chart__key--ai:before {
+		background: #d4af37;
+	}
+
+	.spider-chart__key--security:before {
+		background: #40bfc4;
+	}
+
+	.spider-chart__caption {
+		text-align: center;
+		font-size: 0.65rem;
+		letter-spacing: 0.15rem;
+		text-transform: uppercase;
+		opacity: 0.7;
+	}
 
 /* Footer */
 
