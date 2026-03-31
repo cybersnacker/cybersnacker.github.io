@@ -1009,6 +1009,36 @@ input, select, textarea {
 				border-top: 0;
 			}
 
+/* Talks */
+
+	.talk-tag {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0.25rem 0.75rem;
+		border-radius: 999px;
+		font-size: 0.65rem;
+		font-weight: 600;
+		letter-spacing: 0.08rem;
+		text-transform: uppercase;
+		border: 1px solid rgba(255, 255, 255, 0.4);
+		background: rgba(255, 255, 255, 0.08);
+		color: #ffffff;
+		white-space: nowrap;
+	}
+
+	.talk-tag--ai {
+		border-color: rgba(124, 193, 255, 0.85);
+		background: rgba(124, 193, 255, 0.15);
+		color: #d9edff;
+	}
+
+	.talk-tag--security {
+		border-color: rgba(255, 181, 107, 0.9);
+		background: rgba(255, 181, 107, 0.18);
+		color: #ffe9cf;
+	}
+
 /* Button */
 
 	input[type="submit"],

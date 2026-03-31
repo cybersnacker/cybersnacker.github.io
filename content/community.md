@@ -3,18 +3,21 @@ title: COMMUNITY
 ---
 My contributions and service to the security and AI community by lending my expertise and mentorship
 
+
+### LEADERSHIP
+- I serve on the board of [Align Security](https://align-sec.org/) to advance women in AI and security. 
+- I produced content for the *[NextExec Podcast Season 3](https://nextexec.buzzsprout.com/)* in the role of *co-lead* of Executive Women's Forum's podcast team. *I also hosted several accomplished leaders in Season 2 and Season 3*
+- I *[interviewed security professionals](https://www.youtube.com/playlist?list=PLiVMecYmLYz4Hyol9fZ_jyD3Bm7Yd9yzS)* from different fields in security for BSidesNYC 2023 that was coming back from a hiatus since 2018
+
+
 ### CONFERENCES
 | Date  | Event | Role |
 | ----- | -------- | ------- | 
-| May 2025 - present     | [Align Security](https://align-sec.org/)          | Professional Outreach Director
+| Feb 2026 - present     | RedQueen Working Group (Schmidt Sciences) to study offensive AI risks | Member
 | Aug 2024 - present     | [The Diana Initiative](https://www.dianainitiative.org/)          | CFP Mentor  |
 | Oct 2023 - present     | [CAMLIS](https://www.camlis.org/) |  Program Committee |
 | Oct 2023 - present     | [BSides NYC](https://bsidesnyc.org)   | Podcast Host 
 | Oct 2018     | [16th Executive Women's Forum National Conference](https://www.ewf-usa.com/events/event_details.asp?legacy=1&id=1039519)   | Steering Committee Member
 | March 2017   |  WiCyS Conference 2017(https://www.wicys.org/event/wicys-2017/)            | Prgoram Committee
 
-
-### LEADERSHIP
-- I produced content for the *[NextExec Podcast Season 3](https://nextexec.buzzsprout.com/)* in the role of *co-lead* of Executive Women's Forum's podcast team. *I also hosted several accomplished leaders in Season 2 and Season 3*
-- I *[interviewed security professionals](https://www.youtube.com/playlist?list=PLiVMecYmLYz4Hyol9fZ_jyD3Bm7Yd9yzS)* from different fields in security for BSidesNYC 2023 that was coming back from a hiatus since 2018
 
