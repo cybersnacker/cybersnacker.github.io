@@ -10,3 +10,6 @@ ignoreFiles = ['^scripts/']
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.8
+
+[markup.goldmark.renderer]
+  unsafe = true
