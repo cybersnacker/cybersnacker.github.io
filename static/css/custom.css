@@ -1684,6 +1684,7 @@ input, select, textarea {
 		width: min(100%, 28rem);
 		height: auto;
 		display: block;
+		overflow: visible;
 	}
 
 	.spider-chart__grid polygon,

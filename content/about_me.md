@@ -2,57 +2,66 @@
 title: BIO
 ---
 
- Preeti is a technical leader who has delivered security outcomes by applying AI to security problems and ensuring AI systems are reliable and trustworthy for over a decade. Her career spans startups to Fortune 100 companies where she has advanced research and implemented it into scalable, revenue-aligned systems. She solves problems in both product security and security operations bridging research and engineering execution with equal ease. Her value proposition is working across functions, cutting through ambiguity and delivering measurable business value.
+Preeti is an applied research leader who has delivered security outcomes by applying AI to security problems and ensuring AI systems are reliable, safe and secure for over a decade. Her career spans startups to Fortune 100 companies where she has advanced research and implemented it into scalable, revenue-aligned systems. She solves problems in both product security and security operations bridging research and engineering execution with equal ease. Her value proposition is working across functions, cutting through ambiguity and delivering measurable business value.
 
-As a recognized industry voice, Preeti speaks at conferences like DEFCON,BSides and serves on program committees for CAMLIS, unprompted. She is passionate about bridging the AI and security communities and advancing early career professionals to more senior roles. Currently, Preeti is pursuing AI safety research in AI control.
+As a recognized industry voice, Preeti speaks at AI and security conferences like DEFCON, BSides and serves on program committees for CAMLIS, [un]prompted. She is passionate about bridging the AI and security communities and advancing early career professionals to more senior roles. Currently, Preeti is pursuing AI safety research in AI control.
 
 <div style="display:none">
 <h3>AI + Security Role Dimensions</h3>
-<p>The spider chart compares the relative emphasis across AI and security skill dimensions.</p>
+<p>The spider chart compares AI role emphasis and security role emphasis across applied AI security research, leadership, productization, ML engineering, detection and monitoring, and product security.</p>
 </div>
 
 <div class="spider-chart">
-  <svg class="spider-chart__svg" viewBox="0 0 320 320" role="img" aria-labelledby="spider-chart-title spider-chart-desc">
-    <title id="spider-chart-title">AI versus security role emphasis</title>
-    <desc id="spider-chart-desc">A six-axis spider chart comparing emphasis across AI research, ML engineering, security engineering, threat modeling, risk and governance, and incident response.</desc>
+  <svg class="spider-chart__svg" viewBox="0 0 520 340" role="img" aria-labelledby="spider-chart-title spider-chart-desc">
+    <title id="spider-chart-title">AI role emphasis versus security role emphasis</title>
+    <desc id="spider-chart-desc">A six-axis spider chart comparing AI role emphasis and security role emphasis across applied AI security research, leadership, productization, ML engineering, detection and monitoring, and product security.</desc>
     <g class="spider-chart__grid">
-      <polygon points="160,138 179.1,149 179.1,171 160,182 140.9,171 140.9,149" />
-      <polygon points="160,116 198.1,138 198.1,182 160,204 121.9,182 121.9,138" />
-      <polygon points="160,94 217.2,127 217.2,193 160,226 102.8,193 102.8,127" />
-      <polygon points="160,72 236.2,116 236.2,204 160,248 83.8,204 83.8,116" />
-      <polygon points="160,50 255.3,105 255.3,215 160,270 64.7,215 64.7,105" />
-      <line x1="160" y1="160" x2="160" y2="50" />
-      <line x1="160" y1="160" x2="255.3" y2="105" />
-      <line x1="160" y1="160" x2="255.3" y2="215" />
-      <line x1="160" y1="160" x2="160" y2="270" />
-      <line x1="160" y1="160" x2="64.7" y2="215" />
-      <line x1="160" y1="160" x2="64.7" y2="105" />
+      <polygon points="260,148 279.05,159 279.05,181 260,192 240.95,181 240.95,159" />
+      <polygon points="260,126 298.10,148 298.10,192 260,214 221.90,192 221.90,148" />
+      <polygon points="260,104 317.16,137 317.16,203 260,236 202.84,203 202.84,137" />
+      <polygon points="260,82 336.21,126 336.21,214 260,258 183.79,214 183.79,126" />
+      <polygon points="260,60 355.26,115 355.26,225 260,280 164.74,225 164.74,115" />
+      <line x1="260" y1="170" x2="260" y2="60" />
+      <line x1="260" y1="170" x2="355.26" y2="115" />
+      <line x1="260" y1="170" x2="355.26" y2="225" />
+      <line x1="260" y1="170" x2="260" y2="280" />
+      <line x1="260" y1="170" x2="164.74" y2="225" />
+      <line x1="260" y1="170" x2="164.74" y2="115" />
     </g>
     <g class="spider-chart__area spider-chart__area--ai">
-      <polygon points="160,61 241.0,113.3 212.4,190.3 160,209.5 102.8,193 126.7,140.8" />
-      <circle cx="160" cy="61" r="3" />
-      <circle cx="241.0" cy="113.3" r="3" />
-      <circle cx="212.4" cy="190.3" r="3" />
-      <circle cx="160" cy="209.5" r="3" />
-      <circle cx="102.8" cy="193" r="3" />
-      <circle cx="126.7" cy="140.8" r="3" />
+      <polygon points="260,71 321.92,134.25 336.21,214 260,230.5 207.61,200.25 240.95,159" />
+      <circle cx="260" cy="71" r="3" />
+      <circle cx="321.92" cy="134.25" r="3" />
+      <circle cx="336.21" cy="214" r="3" />
+      <circle cx="260" cy="230.5" r="3" />
+      <circle cx="207.61" cy="200.25" r="3" />
+      <circle cx="240.95" cy="159" r="3" />
     </g>
     <g class="spider-chart__area spider-chart__area--security">
-      <polygon points="160,116 202.9,135.3 245.7,209.5 160,253.5 83.8,204 88.4,118.8" />
-      <circle cx="160" cy="116" r="3" />
-      <circle cx="202.9" cy="135.3" r="3" />
-      <circle cx="245.7" cy="209.5" r="3" />
-      <circle cx="160" cy="253.5" r="3" />
-      <circle cx="83.8" cy="204" r="3" />
-      <circle cx="88.4" cy="118.8" r="3" />
+      <polygon points="260,76.5 321.92,134.25 336.21,214 260,192 179.03,216.75 202.84,137" />
+      <circle cx="260" cy="76.5" r="3" />
+      <circle cx="321.92" cy="134.25" r="3" />
+      <circle cx="336.21" cy="214" r="3" />
+      <circle cx="260" cy="192" r="3" />
+      <circle cx="179.03" cy="216.75" r="3" />
+      <circle cx="202.84" cy="137" r="3" />
     </g>
     <g class="spider-chart__labels">
-      <text x="160" y="24" text-anchor="middle">AI Research</text>
-      <text x="296" y="92" text-anchor="start">ML Engineering</text>
-      <text x="296" y="232" text-anchor="start">Security Engineering</text>
-      <text x="160" y="308" text-anchor="middle">Threat Modeling</text>
-      <text x="24" y="232" text-anchor="end">Risk &amp; Governance</text>
-      <text x="24" y="92" text-anchor="end">Incident Response</text>
+      <text text-anchor="middle">
+        <tspan x="260" y="24">Applied AI</tspan>
+        <tspan x="260" y="36">Security Research</tspan>
+      </text>
+      <text x="364" y="118" text-anchor="start">Leadership</text>
+      <text x="364" y="228" text-anchor="start">Productization</text>
+      <text x="260" y="300" text-anchor="middle">ML Engineering</text>
+      <text text-anchor="end">
+        <tspan x="156" y="228">Detection /</tspan>
+        <tspan x="156" y="240">Monitoring</tspan>
+      </text>
+      <text text-anchor="end">
+        <tspan x="156" y="108">Product</tspan>
+        <tspan x="156" y="120">Security</tspan>
+      </text>
     </g>
   </svg>
   <div class="spider-chart__legend">
