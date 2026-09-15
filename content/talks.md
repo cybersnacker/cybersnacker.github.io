@@ -5,7 +5,7 @@ title: TALKS
 ### INVITED
 | Date | Event | Topic | Media | Summary
 | ----- | -------- | ------- | ------- | ------ |
-| May 2026 | [CackalackyCon](https://cackalackycon.org/schedule.html#) | <span class="talk-tag talk-tag--security">Security</span> | | Panel discussion on the future of AI security, the problems being faced and what's being done about it
+| May 2026 | [CackalackyCon](https://cackalackycon.org/schedule.html#) | <span class="talk-tag talk-tag--security">Security</span> | | Panel discussion on the future of AI security with Dr. Xenia
 | Dec 2025 | Qualys AI Risk Series: A Defender's Lens on AI-driven risks | <span class="talk-tag talk-tag--security">Security</span> | [![](images/youtube_social_icon_red.png)](https://www.youtube.com/watch?v=4nRUAqLt6KQ&list=PLFHSz1fBN1FZItrUjA-eWx9mBPjuEWEPz&index=6) | Qualys Risk Series talk Risks as we move from cloud-native to AI-native 
 | May 2025 | AI RTP Meetup | <span class="talk-tag talk-tag--security">Security</span> | | Overview talk on AI Safety and Security
 | April 2025 | Through the Looking Glass of AI and Security | <span class="talk-tag talk-tag--ai">AI</span> | [![](images/youtube_social_icon_red.png)](https://youtu.be/VXR5irqZJDU?si=XCllBTA6tD_TEBAp) | Grace Hopper Series Talk at UT Dallas
@@ -17,6 +17,7 @@ title: TALKS
 ### TALKS
 | Date | Event | Topic | Media | Summary
 | ----- | -------- | ------- | ------- | ------ |
+| Aug 2026  | Usenix Security Enigma | <span class="talk-tag talk-tag--security">Security</span> | [![](images/youtube_social_icon_red.png)](https://youtu.be/x2aeFXs0GOI?si=qOKwoVqTx8-vHXig) | How security posture drift occurs in AI-DLC
 | Jan 2026  | Women's Society of Cyberjutsu | <span class="talk-tag talk-tag--ai">AI</span> | | Training for using AI in security
 | Aug 2025  | DefCon BTV: Old Soc, New Tricks: Workshop| <span class="talk-tag talk-tag--ai">AI</span> | | Training for using AI in security
 | Aug 2024 | [BSidesLV 2024: AI in the Human Loop](https://bsideslv.org/talks#ZSLBCG) | <span class="talk-tag talk-tag--ai">AI</span> | [![](images/youtube_social_icon_red.png)](https://youtu.be/K5hELUspWq8?si=ap_KwjMFXDBZ5Ggo) | Effects on human workflows before and after deploying generative AI solutions
