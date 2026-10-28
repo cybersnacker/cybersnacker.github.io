@@ -2,9 +2,11 @@
 title: BIO
 ---
 
-Preeti is an applied research leader who has delivered security outcomes by applying AI to security problems and ensuring AI systems are reliable, safe and secure for over a decade. Her career spans startups to Fortune 100 companies where she has advanced research and implemented it into scalable, revenue-aligned systems. She solves problems in both product security and security operations bridging research and engineering execution with equal ease. Her value proposition is working across functions, cutting through ambiguity and delivering measurable business value.
+Preeti is an applied research leader working at the intersection of AI and cybersecurity. Over the past decade, she has worked across startups and Fortune 100 companies, spanning both sides of the AI-security problem: using AI to improve security and securing frontier AI systems. Preeti specializes in leading teams that translate advanced research into revenue-aligned systems. Her strength lies in working across functions, cutting through ambiguity, and delivering measurable business value.
 
-As a recognized industry voice, Preeti speaks at AI and security conferences like DEFCON, BSides and serves on program committees for CAMLIS, [un]prompted. She is passionate about bridging the AI and security communities and advancing early career professionals to more senior roles. Currently, Preeti is pursuing AI safety research in AI control.
+Her current work focuses on security risks introduced by agentic and potentially misaligned AI systems, and on building defense-in-depth approaches that remain effective even when models behave unexpectedly or adversarially. She directs research in AI control, runtime enforcement, human-AI systems, recovery mechanisms, and security architectures for AI agents, with an emphasis on translating emerging research into deployable systems.
+
+She is an active voice in the AI and security communities, with research presented at venues including ICML workshops and USENIX Security. She also speaks at industry conferences including DEF CON and BSides and serves on program committees including CAMLIS and [un]prompted. She is passionate about bridging the AI and security communities and advancing early-career professionals into senior roles.
 
 <div style="display:none">
 <h3>AI + Security Role Dimensions</h3>
